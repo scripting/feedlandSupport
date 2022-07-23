@@ -10,6 +10,8 @@ So I just wanted to check in, and make sure this email address works and give yo
 
 Now I'm going to throw a bunch of facts at you. This is not meant to be a tutorial, rather to give you an overview of this new platform called FeedLand.
 
+### Community
+
 First it's a community project. 
 
 In the community there are feeds and people. 
@@ -21,6 +23,8 @@ People can add new feeds. For now there's a limit of 100 new feeds each user get
 * So go slow and carefully, don't just dump your entire 8-year OPML subscription list in the database.
 
 You can also subscribe to feeds other people have added. There's no limit there. Subscribe to as many as you like.
+
+### Feeds and feed lists
 
 All the feeds you've subscribed to will appear on your feed list, in reverse chronological order of when they were updated. 
 
@@ -38,9 +42,13 @@ You get to find new feeds and people this way.
 
 If you've used <a href="http://bingeworthy.io/">BingeWorthy</a>, it works the same way, only here it's feeds and there it's TV shows. And people. In both cases it involves people. 
 
+### Where this goes
+
 I don't know where this goes. In a real way that'll be up to the users -- ie you, to start. So I'll be watching and listening, to get ideas. 
 
 I want to go slow and learn a lot as we go. I've been doing that all through this project. I want to, this once, get it right. Really advance the art in how we use feeds. To take what we know now in 2022, that we didn't know last time we really dug into this stuff (in my case that was a pretty long time ago). 
+
+### Back up your work!
 
 I will say this part many times: Back up your work! There's a big orange XML icon on your feedlist page. When you click it you'll get an OPML subscription list. Save the file locally, periodically. You never know when the database will be reset. This is very early, so who knows what kinds of problems will come up. 
 
