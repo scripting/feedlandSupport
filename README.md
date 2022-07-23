@@ -1,6 +1,8 @@
 # FeedLand Support
 
-FeedLand is a <a href="http://feedland.org/">place</a> to share and discover feeds. 
+FeedLand is a place to share and discover feeds. 
+
+The software isn't ready yet, but should be next week. (The week of 25 July.)
 
 ### Private site
 
@@ -12,13 +14,13 @@ You might want to watch the site, so you are notified via email of updates.
 
 ### Overview of product
 
-I wrote a quick overview, not meant as a tutorial, to give you an idea of the scope of the product. 
+I wrote a quick <a href="https://github.com/scripting/feedlandSupport/blob/main/docs/overview.md">overview</a>, not meant as a tutorial, to give you an idea of the scope of the product. 
 
 ### There's been a delay
 
-It's a long story, but Twitter's software is not happy about one of the domains we're using. As far as I know, there's nothing wrong with it, and they're being <i>very</i> helpful. I was planning on opening the initial testing on July 23. I could work around the problem, but for now, I'm going to be patient and wait. 
+It's a long story. I was planning on opening the initial testing on July 23 but we hit a snag with a system we use, we could work around but but instead, I'm going to be patient and wait. 
 
-At this point I expect to open FL up for initial testing early-mid the week of July 25. 
+At this point I expect to open FeedLand up for initial testing early-mid the week of July 25. 
 
 ### Questions?
 
