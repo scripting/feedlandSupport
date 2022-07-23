@@ -6,7 +6,7 @@ The software isn't ready yet, but should be next week. (The week of 25 July.)
 
 ### Private site
 
-This is a private site, but when the product is ready to go, it'll become public.
+This is a private site, but when the product is ready, it'll become public.
 
 So whatever you read here for now must stay within the community, later it'll all be open for anyone to read. So keep this in mind as you write here. 
 
