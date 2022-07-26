@@ -2,8 +2,6 @@
 
 FeedLand is a place to share and discover feeds. 
 
-The software isn't ready yet, but should be next week. (The week of 25 July.)
-
 ### Private site
 
 This is a private site, but when the product is ready, it'll become public.
