@@ -1,0 +1,13 @@
+{
+	"name": "rivershell",
+	"description": "Rivers outside of the FeedLand app.",
+	"author": "Dave Winer <dave@smallpicture.com>",
+	"main": "rivershell.js",
+	"license": "MIT",
+	"version": "0.4.0",
+	"dependencies" : {
+		"daveutils": "*",
+		"request": "*",
+		"opml": "*"
+		} 
+	}
