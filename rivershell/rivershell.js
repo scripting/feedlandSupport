@@ -1,6 +1,7 @@
 const utils = require ("daveutils"); 
 const opml = require ("opml");
 const request = require ("request");
+const fs = require ("fs");
 
 var config = {
 	urlOpmlFile: "http://drummer.scripting.com/davewiner/river1.opml",
@@ -53,7 +54,7 @@ function servercall (path, params, flAuthenticated, callback, urlServer=config.u
 		});
 	}
 function getOutline (url, callback) {
-	httpRequest (urlOpmlFile, undefined, undefined, function (err, opmltext) {
+	httpRequest (url, undefined, undefined, function (err, opmltext) {
 		if (err) {
 			callback (err);
 			}
@@ -98,7 +99,13 @@ getOutline (config.urlOpmlFile, function (err, theOutline) {
 				console.log (err.message);
 				}
 			else {
-				console.log (utils.jsonStringify (theRiver));
+				const jsontext = utils.jsonStringify (theRiver);
+				console.log (jsontext);
+				fs.writeFile ("river.json", jsontext, function (err) {
+					if (err) {
+						console.log (err.message);
+						}
+					});
 				}
 			});
 		}
