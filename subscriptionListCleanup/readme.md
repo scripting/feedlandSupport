@@ -22,3 +22,7 @@ It could be modified to read a local file instead of reading it over the net. My
 
 It's probably a good idea to look at the OPML file it generates in Drummer, because some of the feeds, while they may be valid RSS, Atom or RDF, haven't been updated in a long time. Alternatively you could make this app smarter by checking the result from reallysimple.readFeed and seeing how long it' has been since there's been a new item, and not passing it of if it's been too long. 
 
+#### Comments, questions
+
+Post them <a href="https://github.com/scripting/feedlandSupport/issues/16">here.</a>
+
