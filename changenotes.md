@@ -1,17 +1,4 @@
 
-## August 7
-
-### News Product changes
-
-A list of changes to how News Products work
-
-	I moved the popup menu up in the menu, just below the links to the tester's subscription lists.
-	
-	Now when you choose a news product from the sub-menu, instead of displaying the river in the current FeedLand instance, we launch a new one. This gives each news product its own URL, so they can more easily be shared. For example, <a href="http://feedland.scripting.com/?newsproduct=http%3A%2F%2Fdrummer.scripting.com%2Fgwthompson%2Fgt_feed.opml">this link</a> takes you to GWT's river. 
-	
-	We now respect outline comments in the lists of URLs of feeds.
-	
-
 ## August 6
 
 ### How to create a News Product
@@ -22,28 +9,28 @@ Each of the items in the menu is a list of feeds that form a river.
 
 Each of the feeds in a list must be subscribed to by someone who used FeedLand. 
 
-	If it's not, it's not actually a big deal -- but obviously none of its items can show up in the river if we aren't reading it periodically.
-	
+If it's not, it's not actually a big deal -- but obviously none of its items can show up in the river if we aren't reading it periodically.
+
 If you want to create a NP, great -- I want you to!
 
 So this is how you do it with FeedLand and Drummer.
 
-	1. In Drummer, be sure you have the DW menu option checked in the Testing panel of the Settings command. 
-	
-	2. Create a new file, it doesn't matter what you call it. You could name it myFirstRiver.opml.
-	
-	3. In the DW menu, choose Get Subscription List from the HTTP menu. 
-	
-	4. You will get an outline of all your subscriptions from FeedLand.
-	
-	5. With the bar cursor on My Subscriptions, choose Promote from Reorg menu, and delete the My Subscriptions headline.
-	
-	6. You should now have a list of all your subscriptions in the outline.
-	
-	7. Edit the list, deleting the feeds that you don't want in your river.
-	
-	8. Make the outline public, save the URL. Post a copy of the URL as a comment in <a href="https://github.com/scripting/feedlandSupport/issues/18">this thread</a>. We'll review the outline, and let you know if it looks okay and then we'll discuss the next steps. 
-	
+1. In Drummer, be sure you have the DW menu option checked in the Testing panel of the Settings command. 
+
+2. Create a new file, it doesn't matter what you call it. You could name it myFirstRiver.opml.
+
+3. In the DW menu, choose Get Subscription List from the HTTP menu. 
+
+4. You will get an outline of all your subscriptions from FeedLand.
+
+5. With the bar cursor on My Subscriptions, choose Promote from Reorg menu, and delete the My Subscriptions headline.
+
+6. You should now have a list of all your subscriptions in the outline.
+
+7. Edit the list, deleting the feeds that you don't want in your river.
+
+8. Make the outline public, save the URL. Post a copy of the URL as a comment in <a href="https://github.com/scripting/feedlandSupport/issues/18">this thread</a>. We'll review the outline, and let you know if it looks okay and then we'll discuss the next steps. 
+
 There is more to come in this <a href="http://scripting.com/davenet/2000/11/30/bootstrapping.html">bootstrap</a>. 😀
 
 
@@ -51,12 +38,12 @@ There is more to come in this <a href="http://scripting.com/davenet/2000/11/30/b
 
 A new menu appears in the menu bar if one of three views is currently displayed:
 
-	1. A single-feed river.
-	
-	2. A mailbox view of a feed.
-	
-	3. The Feed viewer page for a feed.
-	
+1. A single-feed river.
+
+2. A mailbox view of a feed.
+
+3. The Feed viewer page for a feed.
+
 It allows you to switch to one of the other views.
 
 So if you want to know who subscribed to the feed, choose Feed info.
@@ -117,8 +104,8 @@ Yesterday got the server-side functionality working.
 
 Today I have a single News Product running inside FeedLand. 
 
-	1. Choose NYT River in the Testing menu
-	
+1. Choose NYT River in the Testing menu
+
 You'll see a river of NYT stories, generated from a list of feeds that I am subscribed to in FeedLand. 
 
 <img src="http://scripting.com/images/2022/08/04/nytRiverCommand.png">
@@ -141,40 +128,40 @@ Today is a big day for new features in FeedLand.
 
 <b>A new checkbox in Settings</b>
 
-	There's a new option in the Testing panel in the Settings command (in the System menu, at the right edge of the menu bar).
-	
-	It's a checkbox that tells FeedLand to use the river-style reader in place of the maiblox-style reader.
-	
-	If it's checked, when you click on the name of a feed in the feedlist, the items will open in a reverse-chronologic list of items. 
-	
+There's a new option in the Testing panel in the Settings command (in the System menu, at the right edge of the menu bar).
+
+It's a checkbox that tells FeedLand to use the river-style reader in place of the maiblox-style reader.
+
+If it's checked, when you click on the name of a feed in the feedlist, the items will open in a reverse-chronologic list of items. 
+
 <b>Only deal-stopper bug reports for now</b>
 
-	Lots of never-seen-before features in rivers, and for the most -- they work. You will see bugs. This is 100 percent new software, never been used by anyone but me, but for now, try to ignore all the bugs that don't prevent you from using the system. Those I need to know about when you're ready to report. But otherwise, focus on exploring the functionality.
-	
+Lots of never-seen-before features in rivers, and for the most -- they work. You will see bugs. This is 100 percent new software, never been used by anyone but me, but for now, try to ignore all the bugs that don't prevent you from using the system. Those I need to know about when you're ready to report. But otherwise, focus on exploring the functionality.
+
 <b>A non-feed-specific river</b>
 
-	There's a new command in the menu, _VIew My News._ It opens a river of all your feeds in reverse-chronologic order. This is available even if you've chosen to use the mailbox-style reader. 
-	
-	In the next section I'll list some of the features you should look out for. 
-	
-	BTW, there's more to come. This is not the end of new features. :smile:
-	
+There's a new command in the menu, _VIew My News._ It opens a river of all your feeds in reverse-chronologic order. This is available even if you've chosen to use the mailbox-style reader. 
+
+In the next section I'll list some of the features you should look out for. 
+
+BTW, there's more to come. This is not the end of new features. :smile:
+
 <b>Some of the new features</b>
 
-	* Rivers update in real time as new items are discovered by the FeedLand server.
-	
-	* If an item is too long it's truncated, and a MORE element shows up. If you click it, you'll see the rest of the item, and a LESS element shows up.  
-	
-	* There's a Like icon on each item. It works. It still needs some more features to be fully useful. 
-	
-	* There is an enclosure icon for each item, it's enabled if the item actually has an enclosure.
-	
-	* The Share icon is a placeholder, the functionality is not implemented at this time.
-	
-	* The time in the lower right corner is also a permalink to the item on the source's website. 
-	
-	I'm sure I forgot to list some important features. :-)
-	
+* Rivers update in real time as new items are discovered by the FeedLand server.
+
+* If an item is too long it's truncated, and a MORE element shows up. If you click it, you'll see the rest of the item, and a LESS element shows up.  
+
+* There's a Like icon on each item. It works. It still needs some more features to be fully useful. 
+
+* There is an enclosure icon for each item, it's enabled if the item actually has an enclosure.
+
+* The Share icon is a placeholder, the functionality is not implemented at this time.
+
+* The time in the lower right corner is also a permalink to the item on the source's website. 
+
+I'm sure I forgot to list some important features. :-)
+
 
 ### Comments, questions
 
@@ -209,12 +196,12 @@ News items flow through the <i>News Box</i> at the top of the screen.
 
 How to turn it on:
 
-	1. Choose Settings from the system menu, the one at the right edge of the menu bar.
-	
-	2. In the Testing panel, click on the checkbox that says "Show news items in a small box at the top of the screen."
-	
-	3. Click on OK.
-	
+1. Choose Settings from the system menu, the one at the right edge of the menu bar.
+
+2. In the Testing panel, click on the checkbox that says "Show news items in a small box at the top of the screen."
+
+3. Click on OK.
+
 A box should appear at the top of the screen. Note it might be empty. Wait a while something will show up.
 
 The vertical wedges at the right move you up and down through the list.
@@ -316,8 +303,8 @@ After spending seven months working on a piece of software as the only user of i
 
 I'm finding we need more tools to see what's going on in the little world we've created. So I added a new sub-menu to the testing menu, which allows you to quickly visit the subscription list of each other current users. I don't expect this will be maintained very long, rather I hope better tools for discovery will make the difference. Here's a <a href="http://scripting.com/images/2022/07/26/testersLists.png">screen shot</a> of the menu.
 
-	<img src="http://scripting.com/images/2022/07/26/testersLists.png">
-	
+<img src="http://scripting.com/images/2022/07/26/testersLists.png">
+
 
 ### A voicemail
 
@@ -332,8 +319,8 @@ In the voicemail I talk about the Feed Viewer Page, which you may not have seen 
 
 So here's a <a href="http://scripting.com/images/2022/07/26/kenSmithFeedViewerPage.png">screen shot</a> of the page for Ken Smith's feed.  
 
-	<img src="http://scripting.com/images/2022/07/26/kenSmithFeedViewerPage.png">
-	
+<img src="http://scripting.com/images/2022/07/26/kenSmithFeedViewerPage.png">
+
 In case it wasn't clear in the voicemail, to see this page, click on one of the green circle icons in a feedlist.
 
 If you're a programmer, the Feed Viewer page reflects exactly what is returned by the <a href="https://github.com/scripting/reallysimple">reallySimple</a> feed reading package. Here's the <a href="http://feeder.scripting.com/returnjson?feedurl=http%3A%2F%2Foldschool.scripting.com%2FKenSmith%2Frss.xml">JSON of that structure</a> for Ken Smith's feed. That's what FeedLand gets when it reads the feed through the reallySimple package. 
@@ -383,18 +370,18 @@ This email is about getting the process started. You will get at most one email 
 
 A few things to try out -- 
 
-	Go to <a href="http://feedland.scripting.com/ ">feedland.scripting.com</a> and log in using your Twitter account. 
-	
-	Next step, in the Testing menu, choose <i>Add a Few Feeds.</i> It will subscribe you to some feeds to get started, so you have something to explore with.
-	
-	View <a href="http://feedland.scripting.com/?username=davewiner">my feedlist</a>.  If you see any feeds you're not subscribed to, you can do so by clicking the checkbox. This is called Checkbox News, something I <a href="http://scripting.com/stories/2007/04/23/tvNewsOfTheFuture.html">proposed</a> in 2007, but am just now implementing for the first time. ;-)
-	
-	If you click one of the green icons in the right side of the feed list (I know this is kind of buried) it will take you to the info page for the feed, where you can see who else is subscribed to it. If you click on their name you'll see their feed list. This way you can walk a network of feeds and people. As the network grows you'll see more people and feeds. How will it grow? I do not know. I've never done this before. 
-	
-	You can add some feeds of your own, but there's a limit of 100 feeds you can add. You can subscribe to as many as you like (via the checkboxes).
-	
-	Review the <a href="https://github.com/scripting/feedlandSupport/blob/main/docs/overview.md">overview doc</a> on the support site. 
-	
+Go to <a href="http://feedland.scripting.com/ ">feedland.scripting.com</a> and log in using your Twitter account. 
+
+Next step, in the Testing menu, choose <i>Add a Few Feeds.</i> It will subscribe you to some feeds to get started, so you have something to explore with.
+
+View <a href="http://feedland.scripting.com/?username=davewiner">my feedlist</a>.  If you see any feeds you're not subscribed to, you can do so by clicking the checkbox. This is called Checkbox News, something I <a href="http://scripting.com/stories/2007/04/23/tvNewsOfTheFuture.html">proposed</a> in 2007, but am just now implementing for the first time. ;-)
+
+If you click one of the green icons in the right side of the feed list (I know this is kind of buried) it will take you to the info page for the feed, where you can see who else is subscribed to it. If you click on their name you'll see their feed list. This way you can walk a network of feeds and people. As the network grows you'll see more people and feeds. How will it grow? I do not know. I've never done this before. 
+
+You can add some feeds of your own, but there's a limit of 100 feeds you can add. You can subscribe to as many as you like (via the checkboxes).
+
+Review the <a href="https://github.com/scripting/feedlandSupport/blob/main/docs/overview.md">overview doc</a> on the support site. 
+
 That's it for now. 
 
 
