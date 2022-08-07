@@ -1,5 +1,5 @@
 
-## August 6
+# August 6
 
 ### How to create a News Product
 
@@ -68,7 +68,7 @@ I'm doing this, where developers of other feed software don't, because I am tryi
 I use Node, but if you prefer Ruby, Python, Java, whatever -- feel free to port any of this code and please make it public and let me know about it -- so I can add it to a list of compatible stuff. That's how we got RSS off the ground, with support in lots of environments. 
 
 
-## August 4
+# August 4
 
 ### Checking in..
 
@@ -120,7 +120,7 @@ Questions/comments <a href="https://github.com/scripting/feedlandSupport/issues/
 If you're on the East Coast of the US, try to stay cool. 😎
 
 
-## August 1
+# August 1
 
 ### Rivers
 
@@ -168,7 +168,7 @@ I'm sure I forgot to list some important features. :-)
 Here's a <a href="https://github.com/scripting/feedlandSupport/issues/10">thread</a> for today's new features. 
 
 
-## July 30
+# July 30
 
 ### New feature: The hotlist
 
@@ -186,7 +186,7 @@ Discussion <a href="https://github.com/scripting/feedlandSupport/issues/9">here<
 <img src="http://scripting.com/images/2022/07/30/hotlistScreen.png">
 
 
-## July 29
+# July 29
 
 ### New feature: The News Box
 
@@ -231,7 +231,7 @@ As we close out the first week of testing for FeedLand, all I can say is -- wow 
 I totally look forward to working with all of you. 
 
 
-## July 28
+# July 28
 
 ### No new features today
 
@@ -257,7 +257,7 @@ Here's an <a href="http://feeder.scripting.com/returnjson?feedurl=https%3A%2F%2F
 Here's the new <a href="https://github.com/scripting/feedlandSupport/issues/7">thread</a> for tomorrow.
 
 
-## July 27
+# July 27
 
 ### Today's new feature
 
@@ -295,7 +295,7 @@ Now it's time to say goodnight! :-)
 DW
 
 
-## July 26
+# July 26
 
 ### A long exciting day
 
@@ -351,7 +351,7 @@ A <a href="https://github.com/scripting/feedlandSupport/issues/4">thread</a> for
 See yuz tomorrow with more observations and new features (knock wood, praise Murphy).
 
 
-## July 25
+# July 25
 
 ### Welcome to FeedLand!
 
