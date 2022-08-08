@@ -1,4 +1,17 @@
 
+# August 7
+
+### Sunday changes/fixes
+
+1. The change notes emails are also available in a <a href="https://github.com/scripting/feedlandSupport/blob/main/changenotes.md">Markdown file</a> on feedlandSupport, so they are searchable, and you don't have to go hunting through emails to look up changes.
+
+2. The popup menu for News Products moves up to just below the popup menu for testers feedlists.
+
+3. The News Products now each have their own URLs so you can point to them, <a href="http://feedland.scripting.com/?newsproduct=http%3A%2F%2Fdrummer.scripting.com%2Fgwthompson%2Fgt_feed.opml">like this</a>. But you still have to be a member of the test group to read them, for now.
+
+4. In the feed list OPML files that specifies a News Product we now respect comments. So you can, instead of deleting items to create your product feed list, just comment them out.
+
+
 # August 6
 
 ### How to create a News Product
