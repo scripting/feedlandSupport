@@ -1,4 +1,54 @@
 
+# August 10
+
+### The next step in News Products
+
+A <a href="http://product.scripting.com/?template=http://scripting.com/publicfolder/feedland/products/davesSetup.opml">next step</a> on the path to News Products nirvana. 
+
+<a href="http://scripting.com/images/2022/08/10/newsProductScreen.png">Screen shot</a>.
+
+That's a rendering of a News Product. 
+
+* It's derived from an outline, of course. 
+
+* It has three top level branches: tabs, script and style.
+
+* tabs has six subs -- Bloggers, NYT, Guardian, Sports, Misc and Podcasts. Under each of those is a list of feeds whose items are contained in the river under the tab.
+
+* script contains JavaScript code that runs when the product starts up.
+
+* style contains CSS that appears after all other styles.
+
+What you get is a highly controllable display of multiple news products on one page in a simple user interface most people already know how to use. Think of it as a stage for news.
+
+How did I do it?
+
+* Here's the <a href="http://scripting.com/publicfolder/feedland/products/davesSetup.opml">outline</a> that it came from.
+
+* A <a href="http://scripting.com/images/2022/08/10/outlineScreen.png">screen shot</a>.
+
+* <a href="http://drummer.scripting.com/?url=http://scripting.com/publicfolder/feedland/products/davesSetup.opml">This link</a> opens the outline in Drummer.
+
+You can do it too
+
+Just copy <a href="http://product.scripting.com/?template=http://scripting.com/publicfolder/feedland/products/davesSetup.opml">what I did</a>. You can figure it out. I know you can. 😀
+
+I will write docs of course. 
+
+And this is still very much in development. 
+
+
+# August 9
+
+### Display glitch in Safari
+
+<a href="https://github.com/scripting/feedlandSupport/issues/10#issuecomment-1203069649">gwthompson</a> reported seven days ago that there was a problem in river view with a long post, truncated with a MORE button. 
+
+He even suggested a solution, which I implemented, and it worked. 
+
+Thanks! :-)
+
+
 # August 7
 
 ### Sunday changes/fixes
