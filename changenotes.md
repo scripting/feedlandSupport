@@ -1,4 +1,53 @@
 
+# August 15
+
+### Tweets in a feed
+
+A new product...
+
+TweetFeed is a new experimental service to find out if Twitter can peer with feed reader software. When you log in the server will periodically read your new tweets and update an RSS feed, on my server, that mirrors your Twitter items, so you and others can follow your tweets in any feed reader software.
+
+<a href="http://tweetfeed.org/">http://tweetfeed.org/</a>
+
+The first people to try this out are the FeedLand testers. Let's see how well it works before letting everyone else try it out. 
+
+Please sign up, and look around. Try posting a tweet or two and see them show up in your feed.
+
+Everyone's tweets will flow through the log on the home page of the app. 
+
+Still to be implemented -- if you log out, it will stop adding your tweets to the feed. 
+
+This will be opened to the public, assuming all goes well, later this week, well before FeedLand. Obviously this is a much smaller thing, and fully compatible with FeedLand.
+
+Also please try subscribing to your feed in other feed reading software. 
+
+More docs will come tomorrow. 
+
+If you have questions post them <a href="https://github.com/scripting/feedlandSupport/issues/27">here</a>. 
+
+
+# August 11
+
+### News Products
+
+ Continued development...
+
+* If there is a single tab setup in the outline, then there are no tabs, just one river displayed. This is how you set up a river like mlbriver.com. 
+
+* A tab can be commented, so you don't have to delete it to temporarily remove it from the tab list. 
+
+* You can use include nodes anywhere in the News Product outline, so you can have one river appear in multiple products, or use the same CSS or JavaScript in multiple setups. 
+
+* There's a place for a title, description and image in the template for a product. 
+
+* Details on the features and a <a href="https://github.com/scripting/feedlandSupport/issues/22">place</a> for questions and discussion.
+
+
+### Tomorrow
+
+I'm going to switch focus to RSS feeds for Twitter accounts. I had done work on this in July, hope to get a clean and simple user interface on this. It should be possible for any Twitter user to get a public RSS feed from their tweet stream as part of the FeedLand projec.t 
+
+
 # August 10
 
 ### The next step in News Products
