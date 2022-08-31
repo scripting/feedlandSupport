@@ -7,7 +7,7 @@ const opml = require ("opml");
 const reallysimple = require ("reallysimple");
 
 const config = {
-	urlSource: "http://scripting.com/code/subscriptionlistcleanup/guardian.opml",
+	urlSource: "http://scripting.com/code/subscriptionlistcleanup/mlb.opml",
 	timeoutSecs: 5
 	}
 

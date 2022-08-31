@@ -1,4 +1,57 @@
 
+# August 25
+
+### Changes for the day
+
+I've been lax in keeping the change notes outline current. I'm going to do this a little differently, and hopefully be able to publish more often.
+
+With that in mind here are the changes for the day.
+
+1. The big change is that Markdown items now work in rivers. And they solve an important problem that I hadn't considered enough. We have to strip all the markup from descriptions because feed producers load them up with so much crap. However if you use Markdown, you can have styling, lists, links and titles back, because you can't do any evil stuff with Markdown. Anyway it now works, you can test it by adding a tweet and using markdown and subscribe to your tweetfeed.org feed in FeedLand. When your tweet shows up in the river -- the markdown you entered will be rendered. If you need some help, post a question in <a href="https://github.com/scripting/feedlandSupport/issues/36">today's thread</a>.
+
+2. There's a new version of <a href="https://github.com/scripting/reallysimple">reallySimple</a>, the high-level feed reading package for Node that Feedland uses. The new version passes along the markdown, if it was specified by a &lt;source:markdown> element to FeedLand (and whoever else uses reallySimple).
+
+3. There's a new Drummer verb -- <a href="http://docserver.scripting.com/?verb=twitter.getRawTweet">twitter.getRawTweet</a>. Useful if you need access to info about a tweet that isn't in the object returned by twitter.getTweet.
+
+4. When viewing a river, clicking the Feed link will take you to the Feed viewer page if the river is showing in FeedLand. If it's in a news product it goes to the xmlviewer site for viewing. This allows you to easily unsubscribe if viewing in the FeedLand app.
+
+5. A blogpost -- <a href="http://scripting.com/2022/08/25/210902.html?title=markdownIsJustEnoughHtml">Markdown is just enough HTML</a>.
+
+A lot of the stuff I'm doing is showing up on <a href="http://scripting.com/">Scripting News</a>, and over time more will. 
+
+And we're using the <a href="https://github.com/scripting/feedlandSupport/issues">Issues section</a> on the repo through out each day to record the work, and ask for help with tests. 
+
+
+# August 23
+
+### Welcome back my friends...
+
+I've been posting my updates on the <a href="https://github.com/scripting/feedlandSupport/issues">feedlandSupport repo</a>, it's a little easier for me, and I think that pretty much everyone who's on the mail list is watching the repo too. 
+
+But in case this is not so -- I'm going to try to be more thorough about reporting changes here too. And in today's email, I'll recap some of the recent developments. 
+
+
+### users.opml for tweetfeed.org
+
+The day tweetfeed.org was booted up, before it was even announced, we could see that the <i>People menu</i> approach wasn't going to work, so I pulled it, and thought I might be able to quickly pull together an alternative. This did not succeed. So I pulled back from that, and then decided to do it the right way.
+
+<a href="http://tweetfeed.org/users.opml">tweetfeed.org/users.opml</a> is an OPML subscription list for all the users of tweetfeed.org. 
+
+We do not include users who have disabled their accounts and people who haven't tweeted yet (there was at least one of these).
+
+users.opml is rebuilt when ever a new user joins and for good measure once every time the server reboots.
+
+
+### Wiki
+
+A new wiki page, a list of <a href="https://github.com/scripting/feedlandSupport/wiki/Public-subscription-lists">public subscription lists</a>. I've added two of my own, and one from Ken Smith. It's a wiki, so when you publish a new list, add it here. 
+
+
+### Best test group
+
+You guys are the best testers I've worked with, as a group, in a long time. Thank you.
+
+
 # August 15
 
 ### Tweets in a feed
