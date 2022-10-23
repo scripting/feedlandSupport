@@ -1,6 +1,14 @@
 # FeedLand Support
 
-FeedLand an application that runs in your web browser for managing lists of feeds, sharing them with other users (both in and outside of FeedLand), and reading and sharing news. 
+FeedLand an application that runs in your web browser for managing lists of feeds, sharing them with others, and reading and sharing news. 
+
+### Questions, support
+
+If you have a support issue, something that isn't working properly, or you have a question about how the product works, <a href="https://github.com/scripting/feedlandSupport/issues">post an issue</a> here. You can also use the Slack group for the same purpose. 
+
+If you're using FeedLand seriously, you might want to Watch this repo, to be in the flow of support questions and product updates. 
+
+When reporting a problem, be sure it is reproducible, say what you did, expected to happen and what actually happened. Screen shots can be helpful, and please look in the JavaScript console in the browser to see if there are any error messages. That's how the software helps us pinipoint what went wrong. Remember also that none of the people helping you are paid to do so. Everyone gets respect here. 
 
 ### Docs
 
@@ -35,12 +43,4 @@ FeedLand itself is not at this time open source.
 Utilities for people who work with feeds.
 
 * <a href="https://github.com/scripting/subscriptionListCleanup">subscriptionListCleanup</a>-- a Node app that reads an OPML subscription list, and loops over the feeds and only passes on the ones that are reachable and parseable.
-
-### Questions, support
-
-If you have a support issue, something that isn't working properly, or you have a question about how the product works, <a href="https://github.com/scripting/feedlandSupport/issues">post an issue</a> here. You can also use the Slack group for the same purpose. 
-
-If you're using FeedLand seriously, you might want to Watch this repo, to be in the flow of support questions and product updates. 
-
-When reporting a problem, be sure it is reproducible, say what you did, expected to happen and what actually happened. Screen shots can be helpful, and please look in the JavaScript console in the browser to see if there are any error messages. That's how the software helps us pinipoint what went wrong. Remember also that none of the people helping you are paid to do so. Everyone gets respect here. 
 
