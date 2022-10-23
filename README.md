@@ -6,7 +6,7 @@ If you have a support issue, something that isn't working properly, or you have 
 
 If you're using FeedLand seriously, you might want to Watch this repo, to be in the flow of support questions and product updates. 
 
-When reporting a problem, be sure it is reproducible, say what you did, expected to happen and what actually happened. Screen shots can be helpful, and please look in the JavaScript console in the browser to see if there are any error messages. That's how the software helps us pinipoint what went wrong. Remember also that none of the people helping you are paid to do so. Everyone gets respect here. 
+When reporting a problem, be sure it is reproducible, say what you did, expected to happen and what actually happened. Screen shots can be helpful. Please look in the JavaScript console in the browser to see if there are any error messages. That's how the software helps us pinipoint what went wrong. Remember also that none of the people helping you are paid to do so. Everyone gets respect here, and if someone helps you, be sure to thank them. :smile:
 
 ### Docs
 
