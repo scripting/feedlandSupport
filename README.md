@@ -2,9 +2,7 @@
 
 FeedLand an application that runs in your web browser for managing lists of feeds, sharing them with others, and reading and sharing news. 
 
-### Questions, support
-
-If you have a support issue, something that isn't working properly, or you have a question about how the product works, <a href="https://github.com/scripting/feedlandSupport/issues">post an issue</a> here. You can also use the Slack group for the same purpose. 
+If you have a support issue, something that isn't working properly, or you have a question about how the product works, <a href="https://github.com/scripting/feedlandSupport/issues">post an issue</a> here. You can also use the <a href="http://feedland.slack.com/">Slack group</a> for the same purpose. 
 
 If you're using FeedLand seriously, you might want to Watch this repo, to be in the flow of support questions and product updates. 
 
