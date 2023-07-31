@@ -8,9 +8,9 @@ If this is your first time using FeedLand, you'll need to create a new account.
 
 1. Go to <a href="https://feedland.org/">feedland.org</a>.
 
-2. You should see a <a href="https://imgs.scripting.com/2023/07/31/startupDialog.png">dialog</a>, offering two choices: <i>Sign on, </i>for people who already have an account, and <i>Sign up </i>for new users.   
+2. You should see a <a href="https://imgs.scripting.com/2023/07/31/startupDialog.png">dialog</a>, with two choices: <i>Sign on, </i>for people who already have an account, and <i>Sign up </i>for new users.   
 
-3. Click the Sign up button. A new <a href="https://imgs.scripting.com/2023/07/31/newUserDialog.png">dialog</a> appears, asking you to choose a name and enter an email address. Both must be unique. Messages below each will tell you whether what you have entered can be used. When you're ready, click the Send button.
+3. Click the Sign up button. A new <a href="https://imgs.scripting.com/2023/07/31/newUserDialog.png">dialog</a> appears, asking you to choose a name and enter an email address. Both must be unique. Messages below each will tell you whether what you have entered can be used. When you're ready, click the Send button.   
 
 4. Check your email for a confirmation message. Click the link in the email to take you back to FeedLand. If all goes well, you should see your name in the upper right corner of the screen. 
 
@@ -57,4 +57,6 @@ You can only subscribe to feeds if you're signed in.
 Check out the other docs pages to explore the product in more depth. (Links to be added.)
 
 If you have questions about how to use the product, post an <a href="https://github.com/scripting/feedlandDocs/issues">issue</a> in this group. 
+
+asdf
 
