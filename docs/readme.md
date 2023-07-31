@@ -1,14 +1,18 @@
-# feedlandDocs
+# FeedLand Docs
 
-Fresh start for FeedLand docs, this time in the form of a GitHub project.
+The docs are being updated here, bringing them current, and using them to review the functionality of the product looking for things that need attention. 
 
-### What is this
+This is where we work on the docs, so if you spot problems you can open an issue. Problems can be outright mistakes, things that weren't clear, questions the docs raise but don't answer. 
 
-The beginning of a new docs site for FeedLand. When its ready, the full content will be available outside of GitHub. But this is where we'll develop and maintain the docs.
+The actual site that users will see is:  <a href="http://docs2.feedland.org/">docs2.feedland.org</a>. The text of that site comes from this repository.  
 
 ### Updates
 
 #### 7/31/2023 by DW
 
-The <a href="https://github.com/scripting/feedlandDocs/blob/main/gettingstarted.md">Getting Started page</a> has been reviewed and fleshed out. 
+These pages have been reviewed so far:  
+
+The <a href="https://github.com/scripting/feedlandDocs/blob/main/gettingstarted.md">Getting Started page</a>.
+
+The <a href="https://github.com/scripting/feedlandDocs/blob/main/categories.md">Categories page</a>. 
 
