@@ -4,7 +4,7 @@ FeedLand takes a social media approach to feeds, like Twitter, Bluesky, Mastodon
 
 Like those products FeedLand is two-way, so in addition to reading, you can also write. 
 
-### How to
+### Write your Hello World post
 
 Choose <i>My feed</i> from the first menu.  
 
@@ -14,9 +14,9 @@ Click in the box and type something like <i>Hello World</i> and click the Post b
 
 In a moment the message you typed appears below in the list of the feed's items. 
 
-### Screen shot of the edit box
+### The edit box
 
-<img src="http://scripting.com/images/2023/04/05/editboxScreenShot.png">
+<img src="https://imgs.scripting.com/2023/08/01/editbox1.png">
 
 ### Editing text
 
