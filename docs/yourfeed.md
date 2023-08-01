@@ -1,6 +1,6 @@
 # Your FeedLand feed 
 
-There's a feed with your name on it, ready to go. 
+There's a feed with your name on it, ready to go.  
 
 It's a feed
 
