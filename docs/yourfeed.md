@@ -2,11 +2,11 @@
 
 There's a feed with your name on it, ready to go. 
 
-It's a feed
+### It's a feed
 
 One of the design goals of FeedLand was to create a feed-based alternative to social media apps like Twitter, Bluesky, Mastodon. Like those products FeedLand is two-way, in addition to reading, you can also write. 
 
-How to
+### How to
 
 Choose <i>My feed</i> from the first menu.  
 
@@ -16,11 +16,11 @@ Click in the box and type something like <i>Hello World</i> and click the Post b
 
 In a moment the message you typed <a href="http://scripting.com/images/2022/11/08/editboxwithitembelow.png">appears below</a> in the list of the feed's items. 
 
-Screen shot of the edit box
+### Screen shot of the edit box
 
 <img src="http://scripting.com/images/2023/04/05/editboxScreenShot.png">
 
-Editing text
+### Editing text
 
 To edit the text in an item, click on the text in the list. The text then appears in the edit box. Make changes, when you're ready to publish click the <i>Update</i> button. The text changes both in the feed and in the list. 
 
@@ -30,7 +30,7 @@ Here's a <a href="http://scripting.com/images/2022/11/08/editboxbeingusedtoeditt
 
 In this mode, the text is not saved to the server as you make changes. 
 
-Notes
+### Notes
 
 If you want more info about the published feed, click the (Feed) link next to the feed title. It will take you to the Feed Info page, which includes the URL of your feed. 
 
@@ -40,7 +40,7 @@ Here's the <a href="http://feedland.org/?feedurl=http%3A%2F%2Fdata.feedland.org%
 
 If you want to change the title or description of your blog, choose Settings from the right-most menu, click on the Feed tab and you can edit it there. <a href="http://scripting.com/images/2022/11/08/settingsdialogscreen.png">Screen shot</a>.
 
-Markdown is just enough HTML
+### Markdown is just enough HTML
 
 If you look at the <a href="http://data.feedland.org/feeds/bullmancuso.xml">feed</a>, you'll see that the text is saved in the feed in both HTML and Markdown. 
 
@@ -60,7 +60,7 @@ Here's a an example, an item that has a bit of markup, see how it appears in the
 
 A reader app is free to use either one, and will get the same result. I want to see if other content makers and reader devs will join me in favoring Markdown source when it's available over HTML. There are good <a href="http://scripting.com/2022/08/25/210902.html?title=markdownIsJustEnoughHtml">reasons</a> why it's the way to go.
 
-The bookmarklet
+### The bookmarklet
 
 Here's the bookmarklet. As usual, drag the <b>FL</b> text below from the web page into your browser's chrome. 
 
@@ -74,7 +74,7 @@ When you are on a web page that you want to link to from your feed, click the bo
 
 If you select text on the page before clicking the bookmarklet, that text will appear in the editbox, and the title of the page will appear in the Title element of the TLE section of the editbox.
 
-Linkblogging from inside FeedLand
+### Linkblogging from inside FeedLand
 
 When you're looking at a timeline, there's a <i class="fa fa-retweet"></i> icon that's used to post the item to a linkblog. 
 
@@ -84,7 +84,7 @@ By default that is Radio3, but if you want, you can replace that with FeedLand b
 
 Here's a <a href="http://scripting.com/images/2023/04/05/linkerScreenShot.png">screen shot</a>.
 
-Enclosures
+### Enclosures
 
 You can link to a media file from the Enclosure element in the Title, Link & Enclosure section. 
 
