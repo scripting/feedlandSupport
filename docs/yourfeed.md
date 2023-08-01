@@ -1,10 +1,8 @@
 # Your FeedLand feed 
 
-FeedLand is designed to be a feed-based alternative to social media apps like Twitter, Bluesky, Mastodon. 
+FeedLand takes a social media approach to feeds, like Twitter, Bluesky, Mastodon or Threads. 
 
 Like those products FeedLand is two-way, so in addition to reading, you can also write. 
-
-This page explains how that works
 
 ### How to
 
