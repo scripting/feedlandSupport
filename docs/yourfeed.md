@@ -12,7 +12,7 @@ A new page opens with an edit box at the top and a place for a feed of items bel
 
 Click in the box and type something like <i>Hello World</i> and click the Post button.
 
-In a moment the message you typed <a href="http://scripting.com/images/2022/11/08/editboxwithitembelow.png">appears below</a> in the list of the feed's items. 
+In a moment the message you typed appears below in the list of the feed's items. 
 
 ### Screen shot of the edit box
 
