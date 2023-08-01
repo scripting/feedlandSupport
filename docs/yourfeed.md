@@ -16,7 +16,7 @@ In a moment the message you typed appears below in the list of the feed's items.
 
 ### The edit box
 
-<img src="https://imgs.scripting.com/2023/08/01/editbox1.png">
+<img src="https://imgs.scripting.com/2023/08/01/editbox2.png">
 
 ### Editing text
 
