@@ -26,7 +26,7 @@ When you've decided on a list of categories, open the Settings dialog. Click on 
 
 ### Assigning feeds to categories
 
-Choose My feed list in the first menu. These are all the feeds you're subscribed to. 
+Choose <i>My feed list</i> in the first menu. These are all the feeds you're subscribed to. 
 
 To the right of each name you'll see an icon that looks like a tag. If the tag is dark that means the feed has categories already set, if it's light, only <i>All</i> is checked. Here's what that looks like:  
 
