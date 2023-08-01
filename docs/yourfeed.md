@@ -1,10 +1,10 @@
 # Your FeedLand feed 
 
-There's a feed with your name on it, ready to go. 
+FeedLand is designed to be a feed-based alternative to social media apps like Twitter, Bluesky, Mastodon. 
 
-### It's a feed
+Like those products FeedLand is two-way, so in addition to reading, you can also write. 
 
-One of the design goals of FeedLand was to create a feed-based alternative to social media apps like Twitter, Bluesky, Mastodon. Like those products FeedLand is two-way, in addition to reading, you can also write. 
+This page explains how that works
 
 ### How to
 
