@@ -22,7 +22,7 @@ I recommend having an <i>All</i> category, and unless you feel strongly that a f
 
 When you've decided on a list of categories, open the Settings dialog. Click on the Categories tab. Enter the category names, separated by commas, in the first box. Leave the other boxes empty for now. When you're done click the OK button to save the categories.
 
-<img src="https://imgs.scripting.com/2023/07/31/settingsDialogCategories2.png?nocache=1" style="border: 1px solid silver">
+<img src="https://imgs.scripting.com/2023/07/31/settingsDialogCategories2.png?nocache=1">
 
 ### Assigning feeds to categories
 
@@ -30,7 +30,7 @@ Choose <i>My feed list</i> in the first menu. These are all the feeds you're sub
 
 To the right of each name you'll see an icon that looks like a tag. If the tag is dark that means the feed has categories already set, if it's light, only <i>All</i> is checked. Here's what that looks like:  
 
-<img src="https://imgs.scripting.com/2023/07/31/pointingToTheTabWedge.png" style="border: 1px solid silver">
+<img src="https://imgs.scripting.com/2023/07/31/pointingToTheTabWedge.png">
 
 When you click it a list of checkboxes for each of your categories appears. Only the <i>All</i> checkbox is checked. 
 
@@ -40,7 +40,7 @@ The title of the feed appears at the top of the dialog. If you hover the mouse o
 
 The arrows at the bottom of the dialog allow you to move between feeds in the Feed List without having to close and re-open the dialog. 
 
-<img src="https://imgs.scripting.com/2023/07/31/settingCategoriesForAFeed.png" style="border: 1px solid silver">
+<img src="https://imgs.scripting.com/2023/07/31/settingCategoriesForAFeed.png">
 
 ### Adding tabs to your news page
 
@@ -50,7 +50,7 @@ After assigning categories to some of your feeds, go back to the Settings dialog
 
 Click the OK button to save the new settings, then choose <i>My news</i> from the first menu. You should now see your news organized into three tabs. 
 
-<img src="https://imgs.scripting.com/2023/07/31/newsPageWithTabs.png" style="border: 1px solid silver"> 
+<img src="https://imgs.scripting.com/2023/07/31/newsPageWithTabs.png"> 
 
 ### Getting an OPML subscription list for a category
 
