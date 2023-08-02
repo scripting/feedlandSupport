@@ -14,13 +14,13 @@ From the feed list, you can categorize feeds, read news, see which feeds have re
 
 Also you can read everyone else's feed lists, and subscribe to any of the feeds they're subscribed to. You can quickly see which ones you have already subscribed to with the checkbox next to the feed's title. 
 
-### Screen shot
+### Screen shot of a feed list
 
 <img src="https://imgs.scripting.com/2023/08/02/feedlist1.png">
 
 ### Sort order
 
-You can control the order of the list based on which column head you click on. 
+You can control the order of the list by clicking on a column head. 
 
 * Title sorts the list alphabetically by its title. 
 
@@ -36,15 +36,27 @@ Each line starts with a <i>wedge.</i> If you click it, the feed expands to show 
 
 If you hover over the link to the story, the description of the story pops up. <a href="http://scripting.com/images/2022/10/24/viewStoriesInFeedListScreen.png">Screen shot</a>. 
 
+### Click a checkbox to subscribe
+
 The <i>checkbox</i> indicates if you're subscribed to the feed. If you're viewing someone else's list you will probably see some unchecked boxes. When you check or uncheck a box the effect takes place immediately. One click to subscribe or unsubscribe. 
+
+### Click the title for info about the feed
 
 The third column is the title of the feed. It links to the <i>Feed Info</i> page for the feed, where you can get detailed info about the feed. 
 
+### Categorizing a feed
+
 Immediately after the feed title is an icon that connects to the <i>categories dialog</i> for the feed. It will only be present if you're subscribed to the feed. It's dark if you've set some categories, light if you haven't, so you can quickly see which feeds you have still to assign to categories. Categories allow you to route items from feeds to different tabs when reading news. You define the categories in the Settings dialog, linked to the menu in the upper right corner of the sccreen.
+
+### The When column
 
 The next column, <i>When,</i> says how long it has been since the feed published a new item. When you sort your feed list this way (the default) it's basically a new kind of feed reader, one which I discovered kind of by accident after implementing the feature. It's makes the Feed List page 100 times more useful imho.
 
+### The Ct column
+
 The <i>Ct</i>  column says how many people have subscribed to the feed. 
+
+### The info icon
 
 If you hover over the green Info icon you can quickly see basic stats about the feed. I found this useful for debugging and left it in, because we're always debugging. ;-)
 
