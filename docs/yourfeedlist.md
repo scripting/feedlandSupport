@@ -76,7 +76,7 @@ If you hover over the green Info icon you can quickly see basic stats about the 
 
 ### Other features of a Feed List page
 
-The white on orange XML icon is present on many of the pages in FeedLand. It always links to the XML representation of the data on the page you're viewing. In this case, it links to the OPML version of your subscription list. 
+The white on orange XML icon is present at the top of many of the pages in FeedLand. It always links to the XML representation of the data on the page you're viewing. In this case, it links to the OPML version of your subscription list. 
 
 The + Feed button brings up a dialog that allows you to enter the URL of a feed to subscribe to. This button is a remnant of earlier versions of FeedLand. Now there's a command in the first menu that does this, and it's present everywhere, not just on the Feed List page. We left it here, because why not. 
 
