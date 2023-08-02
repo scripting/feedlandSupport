@@ -16,7 +16,7 @@ Also you can read everyone else's feed lists, and subscribe to any of the feeds 
 
 ### Screen shot of a feed list
 
-<img src="https://imgs.scripting.com/2023/08/02/feedlist1.png">
+<img src="https://imgs.scripting.com/2023/08/02/feedlist2.png">
 
 ### Sort order
 
