@@ -66,11 +66,13 @@ The next column, <i>When,</i> says how long it has been since the feed published
 
 The <i>Ct</i>  column says how many people have subscribed to the feed. 
 
-### The info icon
+### The info popup
 
 If you hover over the green Info icon you can quickly see basic stats about the feed. I found this useful for debugging and left it in, because we're always debugging. ;-)
 
 Many of the items have tool tips, for example the feed title has as its tool tip the description of the feed. It's good to have it there because sometimes the feed titles aren't that helpful. 
+
+<img src="https://imgs.scripting.com/2023/08/02/feedInfoPopup.png">
 
 ### Other features of the Feed List
 
