@@ -4,8 +4,6 @@ Each feed that FeedLand follows has a Feed Info page.
 
 It's linked to from the Feed List, and from the (feed) link in a River timeline. 
 
-### Screen shot of a Feed Info page
-
 <img src="https://imgs.scripting.com/2023/08/02/feedInfoPage1.png">
 
 ### Title links to the feed home page
