@@ -6,15 +6,17 @@ It's linked to from the Feed List, and from the (feed) link in a River timeline.
 
 <img src="https://imgs.scripting.com/2023/08/02/feedInfoPage1.png">
 
-### Title links to the feed home page
+### The title links to the feed home page
 
 When you click on the <i>Title, </i>you're taken to the home page of the site the feed is associated with, via the top-level &lt;link> element in the feed.
 
-### Description comes from the feed
+### The description comes from the feed
 
 <i>Description</i> comes from the top-level &lt;description> element in the feed. 
 
 ### Viewing the actual feed
+
+Sometimes, when troubleshooting a feed, you need to see the actual code in the feed. 
 
 The link to the <i>Feed</i> displays the contents of the feed on <a href="http://xmlviewer.scripting.com/?url=http%3A%2F%2Fscripting.com%2Frss.xml">xmlviewer.scripting.com</a>. If you need the actual URL of the feed, you can copy it from the text at the top of the xmlviewer page. I'm sorry it has to be like this, but some browsers screw with the display of feeds, and sometimes you need to actually see the source of the feed itself not a friendly rendering of the feed. 
 
