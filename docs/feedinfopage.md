@@ -22,7 +22,7 @@ The link to the <i>Feed</i> displays the contents of the feed on <a href="http:/
 
 ### View and edit categories
 
-<i>Categories</i> lists the categories you have assigned the feed to. If you click the (Edit) button you can change the category assignments in the <a href="http://scripting.com/images/2022/10/19/categoriesDialogScreen.png">dialog</a>. 
+The <i>Categories</i> row lists the categories you have assigned to the feed. If you click the (Edit) button you can change the category assignments in the <a href="http://scripting.com/images/2022/10/19/categoriesDialogScreen.png">dialog</a>. 
 
 ### View as
 
