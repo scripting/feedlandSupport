@@ -2,6 +2,26 @@
 
 The instructions on this page help you get started in FeedLand, and let you know the limits and features of the system. 
 
+### What is FeedLand?
+
+FeedLand is an application that runs in your web browser for managing lists of feeds, sharing them with other users (both in and outside of FeedLand), and reading and sharing news. 
+
+The goal of FeedLand is to make news a social thing, following the pattern of Twitter and other social media apps, but using open formats and protocols like RSS, OPML and the web. 
+
+So FeedLand is feeds, news and people and software that connects it all together.
+
+### Community
+
+People subscribe to feeds, we squeeze news out of feeds, and shape it into products. 
+
+People can add new feeds. There's a limit of 250 new feeds for each user.  
+
+You can also subscribe to feeds other people have added. No limit there. Subscribe to as many as you like.
+
+Everyone can see everything. Our lists and categories are there for everyone to use. 
+
+A FeedLand community works together shaping news flows.
+
 ### How to sign up
 
 If this is your first time using FeedLand, you'll need to create a new account. 
