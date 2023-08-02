@@ -72,7 +72,7 @@ If you hover over the green Info icon you can quickly see basic stats about the 
 
 Many of the items have tool tips, for example the feed title has as its tool tip the description of the feed. It's good to have it there because sometimes the feed titles aren't that helpful. 
 
-<img src="https://imgs.scripting.com/2023/08/02/feedInfoPopup2.png">
+<img src="https://imgs.scripting.com/2023/08/02/feedInfoPopup3.png">
 
 ### Other features of a Feed List page
 
