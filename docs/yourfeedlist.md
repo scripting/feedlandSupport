@@ -52,6 +52,8 @@ When you check or uncheck a box the effect takes place immediately.
 
 The third column is the title of the feed. It links to the <i>Feed Info</i> page for the feed, where you can get detailed info about the feed. 
 
+Many of the items have tool tips, for example the feed title has as its tool tip the description of the feed. It's good to have it there because sometimes the feed titles aren't that helpful. 
+
 ### Categorizing a feed
 
 Immediately after the feed title is a tag icon that connects to the <i>categories dialog</i> for the feed. It will only be present if you're subscribed to the feed. It's dark if you've set some categories, light if you haven't, so you can quickly see which feeds you have still to assign to categories. 
@@ -70,17 +72,13 @@ The <i>Ct</i>  column says how many people have subscribed to the feed.
 
 If you hover over the green Info icon you can quickly see basic stats about the feed. I found this useful for debugging and left it in, because we're always debugging. ;-)
 
-Many of the items have tool tips, for example the feed title has as its tool tip the description of the feed. It's good to have it there because sometimes the feed titles aren't that helpful. 
-
 <img src="https://imgs.scripting.com/2023/08/02/feedInfoPopup3.png">
 
 ### Other features of a Feed List page
 
-The white on orange XML icon is present on many of the pages in FeedLand. It always likes to the XML representation of the data on the page you're viewing. In this case, it links to the OPML version of your subscription list. 
+The white on orange XML icon is present on many of the pages in FeedLand. It always links to the XML representation of the data on the page you're viewing. In this case, it links to the OPML version of your subscription list. 
 
-The + Feed button brings up a dialog that allows you to enter the URL of a feed to subscribe to. This button is a remnant of earlier versions of FeedLand. Now there's a command in the Menu that does this, and it's present everywhere, not just on the Feed List page. We left it here, because why not. 
+The + Feed button brings up a dialog that allows you to enter the URL of a feed to subscribe to. This button is a remnant of earlier versions of FeedLand. Now there's a command in the first menu that does this, and it's present everywhere, not just on the Feed List page. We left it here, because why not. 
 
-The link at the top of the page where it says this is a list of the feeds that cluelessnewbie is subscribed to, links to the main news page for the user, where you can see the latest news items from all these feeds. You can use FeedLand as a news reader, but it's also totally valid to use it to manage your subscriptions to use in another feed reader that you're already using. 
-
-
+The link at the top of the page where it says this is a list of the feeds that davewiner is subscribed to, links to the main news page for the user, where you can see the latest news items from all these feeds. 
 
