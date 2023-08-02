@@ -2,7 +2,7 @@
 
 At the center of your FeedLand world is the Feed List. 
 
-You can get to it by choosing My Feeds in the first menu. 
+You can get to it by choosing <i>My Feeds</i> in the first menu. 
 
 All the feeds you subscribe to are listed. 
 
