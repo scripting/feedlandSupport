@@ -28,6 +28,8 @@ The <i>Categories</i> row lists the categories you have assigned to the feed. If
 
 You can view the contents of a feed either as a timeline (or river) or using a traditional mailbox view. 
 
+These links are also available in the Views menu at the top of each page.
+
 ### When added
 
 <i>When added</i> says when the feed was first added to the FeedLand database, and by whom. 
