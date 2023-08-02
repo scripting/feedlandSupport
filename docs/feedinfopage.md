@@ -16,9 +16,9 @@ When you click on the <i>Title, </i>you're taken to the home page of the site th
 
 ### Viewing the actual feed
 
-Sometimes, when troubleshooting a feed, you need to see the actual code in the feed. 
+Sometimes when troubleshooting a feed, you need to actually see the source of the feed itself, not a friendly rendering of the feed, as many browsers try to provide.
 
-The link to the <i>Feed</i> displays the contents of the feed on <a href="http://xmlviewer.scripting.com/?url=http%3A%2F%2Fscripting.com%2Frss.xml">xmlviewer.scripting.com</a>. If you need the actual URL of the feed, you can copy it from the text at the top of the xmlviewer page. I'm sorry it has to be like this, but some browsers screw with the display of feeds, and sometimes you need to actually see the source of the feed itself not a friendly rendering of the feed. 
+The link to the <i>Feed</i> displays the contents of the feed on <a href="http://xmlviewer.scripting.com/?url=http%3A%2F%2Fscripting.com%2Frss.xml">xmlviewer.scripting.com</a>. If you need the actual URL of the feed, you can copy it from the text at the top of the xmlviewer page.  
 
 ### View and edit categories
 
