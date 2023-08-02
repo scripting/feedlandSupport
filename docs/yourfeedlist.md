@@ -62,6 +62,8 @@ If you hover over the green Info icon you can quickly see basic stats about the 
 
 Many of the items have tool tips, for example the feed title has as its tool tip the description of the feed. It's good to have it there because sometimes the feed titles aren't that helpful. 
 
+### Other features of the Feed List
+
 The white on orange XML icon is present on many of the pages in FeedLand. It always likes to the XML representation of the data on the page you're viewing. In this case, it links to the OPML version of your subscription list. 
 
 The + Feed button brings up a dialog that allows you to enter the URL of a feed to subscribe to. This button is a remnant of earlier versions of FeedLand. Now there's a command in the Menu that does this, and it's present everywhere, not just on the Feed List page. We left it here, because why not. 
