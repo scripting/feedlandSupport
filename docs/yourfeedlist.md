@@ -32,9 +32,15 @@ If you click a header again it reverses the order, so if you were viewing alphab
 
 ### Each feed has wedge
 
-Each line starts with a <i>wedge.</i> If you click it, the feed expands to show the most recent five stories in the feed, with a link to the story. Click the wedge again to collapse. 
+Each line starts with a wedge. If you click it, the feed expands to show the five most recent stories in the feed, with a link to the story. 
 
-If you hover over the link to the story, the description of the story pops up. <a href="http://scripting.com/images/2022/10/24/viewStoriesInFeedListScreen.png">Screen shot</a>. 
+<img src="https://imgs.scripting.com/2023/08/02/expandedWedge.png">
+
+Click the wedge again to collapse. 
+
+If you hover over the link to the story, a description of the story pops up.
+
+<img src="https://imgs.scripting.com/2023/08/02/wedgeExpandedTooltipVisible.png">
 
 ### Click a checkbox to subscribe
 
