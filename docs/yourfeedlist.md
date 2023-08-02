@@ -32,11 +32,9 @@ If you click a header again it reverses the order, so if you were viewing alphab
 
 ### Each feed has wedge
 
-Each line starts with a wedge. If you click it, the feed expands to show the five most recent stories in the feed, with a link to the story. 
+Each line starts with a wedge. If you click it, the feed expands to show the five most recent stories in the feed, with a link to the story. Click the wedge again to collapse. 
 
 <img src="https://imgs.scripting.com/2023/08/02/expandedWedge.png">
-
-Click the wedge again to collapse. 
 
 If you hover over the link to the story, a description of the story pops up.
 
@@ -44,7 +42,11 @@ If you hover over the link to the story, a description of the story pops up.
 
 ### Click a checkbox to subscribe
 
-The <i>checkbox</i> indicates if you're subscribed to the feed. If you're viewing someone else's list you will probably see some unchecked boxes. When you check or uncheck a box the effect takes place immediately. One click to subscribe or unsubscribe. 
+Each feed has a checkbox which indicates whether you are subscribed to the feed. 
+
+In your own list all feeds are checked. If you're viewing <a href="https://imgs.scripting.com/2023/08/02/someoneElsesFeedList.png">someone else's list</a> you will probably see some unchecked boxes. 
+
+When you check or uncheck a box the effect takes place immediately.   
 
 ### Click the title for info about the feed
 
@@ -52,13 +54,15 @@ The third column is the title of the feed. It links to the <i>Feed Info</i> page
 
 ### Categorizing a feed
 
-Immediately after the feed title is an icon that connects to the <i>categories dialog</i> for the feed. It will only be present if you're subscribed to the feed. It's dark if you've set some categories, light if you haven't, so you can quickly see which feeds you have still to assign to categories. Categories allow you to route items from feeds to different tabs when reading news. You define the categories in the Settings dialog, linked to the menu in the upper right corner of the sccreen.
+Immediately after the feed title is a tag icon that connects to the <i>categories dialog</i> for the feed. It will only be present if you're subscribed to the feed. It's dark if you've set some categories, light if you haven't, so you can quickly see which feeds you have still to assign to categories. 
 
-### The When column
+Categories allow you to route items from feeds to different tabs when reading news. You define the categories in the Settings dialog, linked to the menu in the upper right corner of the screen.
+
+### How fresh is a feed -- the When column
 
 The next column, <i>When,</i> says how long it has been since the feed published a new item. When you sort your feed list this way (the default) it's basically a new kind of feed reader, one which I discovered kind of by accident after implementing the feature. It's makes the Feed List page 100 times more useful imho.
 
-### The Ct column
+### How popular is a feed -- the Ct column
 
 The <i>Ct</i>  column says how many people have subscribed to the feed. 
 
