@@ -72,9 +72,9 @@ If you hover over the green Info icon you can quickly see basic stats about the 
 
 Many of the items have tool tips, for example the feed title has as its tool tip the description of the feed. It's good to have it there because sometimes the feed titles aren't that helpful. 
 
-<img src="https://imgs.scripting.com/2023/08/02/feedInfoPopup.png">
+<img src="https://imgs.scripting.com/2023/08/02/feedInfoPopup2.png">
 
-### Other features of the Feed List
+### Other features of a Feed List page
 
 The white on orange XML icon is present on many of the pages in FeedLand. It always likes to the XML representation of the data on the page you're viewing. In this case, it links to the OPML version of your subscription list. 
 
