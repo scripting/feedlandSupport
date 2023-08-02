@@ -14,25 +14,23 @@ From the feed list, you can categorize feeds, read news, see which feeds have re
 
 Also you can read everyone else's feed lists, and subscribe to any of the feeds they're subscribed to. You can quickly see which ones you have already subscribed to with the checkbox next to the feed's title. 
 
-Screen shot
-
-In the screen shot below, we go through all the features of the Feed List page in great detail.
+### Screen shot
 
 <img src="http://scripting.com/images/2022/10/17/feedlistPageScreen.png">
 
-Sort order
+### Sort order
 
-You can control the sort order of the list based on which column head you click on. 
+You can control the order of the list based on which column head you click on. 
 
-Title sorts the list alphabetically by its title. 
+* Title sorts the list alphabetically by its title. 
 
-When sorts chronologically by when the feed was last updated. 
+* When sorts chronologically by when the feed was last updated. 
 
-Ct sorts on the number of subscribers. 
+* Ct sorts on the number of subscribers. 
 
 If you click a header again it reverses the order, so if you were viewing alphabetically, it would switch to reverse-alphabetic.
 
-The wedge
+### Each feed has wedge
 
 Each line starts with a <i>wedge.</i> If you click it, the feed expands to show the most recent five stories in the feed, with a link to the story. Click the wedge again to collapse. 
 
