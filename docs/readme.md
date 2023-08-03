@@ -20,17 +20,17 @@ Soon they will be in the repo, had to change the way the text flowed, posting di
 
 These pages have been reviewed:  
 
-* <a href="readingnews.md">Reading news</a>. 
+* Reading news.
 
-* <a href="yourfeedlist.md">Your feed list</a>. 
+* Your feed list.
 
-* <a href="feedinfopage.md">Feed Info page</a>. 
+* Feed Info page.
 
 #### 7/31/2023 by DW
 
 These pages have been reviewed:  
 
-* <a href="gettingstarted.md">Getting Started</a>.
+* Getting started.
 
-* <a href="categories.md">Categories</a>. 
+* Categories.
 
