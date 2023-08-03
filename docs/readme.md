@@ -1,0 +1,52 @@
+# FeedLand Docs
+
+The docs are being updated here, bringing them current, and using them to review the functionality of the product looking for things that need attention. 
+
+<<<<<<< HEAD
+The docs are rendered from my Glorp outline directly to the website via Dropbox, and kept in sync with the <a href="https://github.com/scripting/feedlandSupport/tree/main/docs">FeedLand Support repo</a> on GitHub. I had initially planned it to go first to the repo, and have the site be a dynamic rendering of the content in the repo, but there were rate limits that I didn't fully understand, and rather than stop to figure it out, I went the other way, which I know works, because I've been using it for many years.
+
+The actual site that users will see is:  <a href="http://docs2.feedland.org/">docs2.feedland.org</a>. 
+
+### Updates
+
+#### 8/3/2023 by DW 
+
+All the non-developer docs are reviewed and in the new Markdown-based format. 
+
+To see the list, look through the menu, at the top of the page.
+
+Soon they will be in the repo, had to change the way the text flowed, posting directly to GitHub has once again proved not dependable, though more problems were fixed this time around. Eventually we'll get this working properly. 
+
+#### 8/2/2023 by DW 
+
+These pages have been reviewed:  
+
+* <a href="readingnews.md">Reading news</a>. 
+
+* <a href="yourfeedlist.md">Your feed list</a>. 
+
+* <a href="feedinfopage.md">Feed Info page</a>. 
+
+#### 7/31/2023 by DW
+
+These pages have been reviewed:  
+
+* <a href="gettingstarted.md">Getting Started</a>.
+
+* <a href="categories.md">Categories</a>. 
+=======
+This is where we work on the docs, so if you spot problems you can open an issue. Problems can be outright mistakes, things that weren't clear, questions the docs raise but don't answer. 
+
+The actual site that users will see is:  <a href="http://docs2.feedland.org/">docs2.feedland.org</a>. The text of that site comes from this repository.  
+
+### Updates
+
+#### 7/31/2023 by DW
+
+These pages have been reviewed so far:  
+
+The <a href="https://github.com/scripting/feedlandDocs/blob/main/gettingstarted.md">Getting Started page</a>.
+
+The <a href="https://github.com/scripting/feedlandDocs/blob/main/categories.md">Categories page</a>. 
+>>>>>>> origin/main
+
