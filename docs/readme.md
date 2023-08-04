@@ -2,6 +2,8 @@
 
 The docs are being updated here, bringing them current, and using them to review the functionality of the product looking for things that need attention. 
 
+For a list of all the docs currently available, <a href="https://user-images.githubusercontent.com/1686843/258141641-ca25e468-0fbb-4d5f-bb39-96e3c873a127.png">look in the Docs menu</a> at the top of each page. 
+
 The docs are rendered from my Glorp outline directly to the website via Dropbox, and kept in sync with the <a href="https://github.com/scripting/feedlandSupport/tree/main/docs">FeedLand Support repo</a> on GitHub. I had initially planned it to go first to the repo, and have the site be a dynamic rendering of the content in the repo, but there were rate limits that I didn't fully understand, and rather than stop to figure it out, I went the other way, which I know works, because I've been using it for many years.
 
 The actual site that users will see is:  <a href="http://docs2.feedland.org/">docs2.feedland.org</a>. 
